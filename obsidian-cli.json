@@ -6,14 +6,14 @@
             "bin": [
                 "obsidian-cli.exe"
             ],
-            "hash": "d3264d899e6493d8515b93641dbddb04c3f0f07fc7c486a9cebafd1edd9c77c7"
+            "hash": "8d13cef4b658dacc882b4955a8136db3e7bee8e9610c50697dc21d6a9de77011"
         },
         "arm64": {
             "url": "https://github.com/Yakitrak/obsidian-cli/releases/download/v0.1.7/obsidian-cli_0.1.7_windows_arm64.tar.gz",
             "bin": [
                 "obsidian-cli.exe"
             ],
-            "hash": "9eba1a482d78f30603f11980714e86706eea2ed97fe84e39d99cddb80882d870"
+            "hash": "a4ed2448447e36ae40d3e74356174ac3b19105f02c2dcf4720c9885998de7e22"
         }
     },
     "homepage": "https://github.com/Yakitrak/obsidian-cli"
