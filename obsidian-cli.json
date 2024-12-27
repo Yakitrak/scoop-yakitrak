@@ -1,19 +1,19 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Yakitrak/obsidian-cli/releases/download/v0.1.7/obsidian-cli_0.1.7_windows_amd64.tar.gz",
+            "url": "https://github.com/Yakitrak/obsidian-cli/releases/download/v0.1.8/obsidian-cli_0.1.8_windows_amd64.tar.gz",
             "bin": [
                 "obsidian-cli.exe"
             ],
-            "hash": "8d13cef4b658dacc882b4955a8136db3e7bee8e9610c50697dc21d6a9de77011"
+            "hash": "75ef0de3a5dc4bc06f61f1351bbf3d0787b44d819db8ff58e8dd3dce0ad0944d"
         },
         "arm64": {
-            "url": "https://github.com/Yakitrak/obsidian-cli/releases/download/v0.1.7/obsidian-cli_0.1.7_windows_arm64.tar.gz",
+            "url": "https://github.com/Yakitrak/obsidian-cli/releases/download/v0.1.8/obsidian-cli_0.1.8_windows_arm64.tar.gz",
             "bin": [
                 "obsidian-cli.exe"
             ],
-            "hash": "a4ed2448447e36ae40d3e74356174ac3b19105f02c2dcf4720c9885998de7e22"
+            "hash": "3bc4980055ca399a5830ab99bfa6eaa648a8ae0d46217a5c6e963ec2d2a508eb"
         }
     },
     "homepage": "https://github.com/Yakitrak/obsidian-cli"
