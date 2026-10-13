@@ -1,19 +1,19 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Yakitrak/notesmd-cli/releases/download/v0.3.7/notesmd-cli_0.3.7_windows_amd64.tar.gz",
+            "url": "https://github.com/Yakitrak/notesmd-cli/releases/download/v0.3.8/notesmd-cli_0.3.8_windows_amd64.tar.gz",
             "bin": [
                 "notesmd-cli.exe"
             ],
-            "hash": "9f858b03a6109279f03db0ba3abdf1fffaebd9fc3a3f30a5dc04a054e3d7e731"
+            "hash": "cca60a915bfc807d0a32eb5db16e7cf22a65f159c9d4a6cccb642e675508ac13"
         },
         "arm64": {
-            "url": "https://github.com/Yakitrak/notesmd-cli/releases/download/v0.3.7/notesmd-cli_0.3.7_windows_arm64.tar.gz",
+            "url": "https://github.com/Yakitrak/notesmd-cli/releases/download/v0.3.8/notesmd-cli_0.3.8_windows_arm64.tar.gz",
             "bin": [
                 "notesmd-cli.exe"
             ],
-            "hash": "7e7fa94acaf5adeb1c7c16a058bc12d0bde1505520dee501951ce81641dcda40"
+            "hash": "7e8606b3290a8196bd48725442894e70c299ef9f584c43d5f3ce39024ef437cc"
         }
     },
     "homepage": "https://github.com/Yakitrak/notesmd-cli"
